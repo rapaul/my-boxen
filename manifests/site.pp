@@ -78,6 +78,8 @@ node default {
   # java
   include java
 
+  include skype
+
   # common, useful packages
   package {
     [
