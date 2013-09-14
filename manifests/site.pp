@@ -78,6 +78,8 @@ node default {
   # java
   include java
 
+  include macvim
+
   include skype
 
   # common, useful packages
