@@ -80,8 +80,9 @@ node default {
   include eclipse::jee
 
   include macvim
-
   include skype
+  include vagrant
+  include virtualbox
 
   # common, useful packages
   package {

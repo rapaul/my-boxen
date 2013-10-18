@@ -37,6 +37,8 @@ github "ruby",       "6.3.4"
 github "skype",      "1.0.4"
 github "stdlib",     "4.1.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",       "1.0.0"
+github "vagrant",    "2.0.13"
+github "virtualbox", "1.0.6"
 github "xquartz",    "1.1.0"
 
 # Optional/custom modules. There are tons available at
