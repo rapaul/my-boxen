@@ -69,6 +69,11 @@ GITHUBTARBALL
     openssl (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-python
+  specs:
+    python (1.2.1)
+
+GITHUBTARBALL
   remote: boxen/puppet-repository
   specs:
     repository (2.2.0)
@@ -92,6 +97,11 @@ GITHUBTARBALL
   remote: boxen/puppet-vagrant
   specs:
     vagrant (2.0.13)
+
+GITHUBTARBALL
+  remote: boxen/puppet-vim
+  specs:
+    vim (1.0.5)
 
 GITHUBTARBALL
   remote: boxen/puppet-virtualbox
@@ -129,12 +139,14 @@ DEPENDENCIES
   nginx (= 1.4.2)
   nodejs (= 3.2.9)
   openssl (= 1.0.0)
+  python (= 1.2.1)
   repository (= 2.2.0)
   ruby (= 6.3.4)
   skype (= 1.0.4)
   stdlib (= 4.1.0)
   sudo (= 1.0.0)
   vagrant (= 2.0.13)
+  vim (= 1.0.5)
   virtualbox (= 1.0.6)
   xquartz (= 1.1.0)
 
