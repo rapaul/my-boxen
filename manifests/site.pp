@@ -77,6 +77,7 @@ node default {
 
   # java
   include java
+  include eclipse::jee
 
   include macvim
 
