@@ -18,6 +18,7 @@ github "boxen",      "3.0.2"
 # Core modules for a basic development environment. You can replace
 # some/most of these if you want, but it's not recommended.
 
+github "alfred",     "1.1.5"
 github "autoconf",   "1.0.0"
 github "dnsmasq",    "1.0.0"
 github "eclipse",    "2.2.0"
