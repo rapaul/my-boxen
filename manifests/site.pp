@@ -77,16 +77,16 @@ node default {
   include java
   include eclipse::jee
 
-  include vim
-  include vim::loader
-  vim::bundle { [
-    'kien/ctrlp.vim',
-  ]: }
-  file { "${vim::vimrc}": ensure => exists }
+  #include python
+
+  #include vim
+  #include vim::loader
+  #vim::bundle { [
+  #  'kien/ctrlp.vim',
+  #]: }
+  #file { "${vim::vimrc}": ensure => exists }
 
   include macvim
-
-  include python
 
   include skype
   include vagrant
