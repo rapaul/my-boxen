@@ -89,6 +89,7 @@ node default {
   include macvim
 
   include skype
+  include sourcetree
   include vagrant
   include virtualbox
 
