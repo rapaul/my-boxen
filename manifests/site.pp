@@ -73,6 +73,8 @@ node default {
   include ruby::1_9_3
   include ruby::2_0_0
 
+  include iterm2::stable
+
   # java
   include java
   include eclipse::jee
