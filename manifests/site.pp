@@ -75,6 +75,7 @@ node default {
 
   include alfred
 
+  include firefox
   include iterm2::stable
 
   # java
