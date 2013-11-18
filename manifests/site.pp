@@ -102,7 +102,9 @@ node default {
     [
       'ack',
       'findutils',
-      'gnu-tar'
+      'gnu-tar',
+      'ssh-copy-id',
+      'maven',
     ]:
   }
 
