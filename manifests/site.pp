@@ -106,6 +106,7 @@ node default {
       'gnu-tar',
       'ssh-copy-id',
       'maven',
+      'ant',
     ]:
   }
 
