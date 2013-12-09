@@ -95,6 +95,7 @@ node default {
 
   include skype
   include sourcetree
+  include spotify
   include vagrant
   include virtualbox
 
